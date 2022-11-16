@@ -1,0 +1,269 @@
+
+.toptext{
+    color: white;
+    margin-top: -480px;
+}
+.toplist{
+    margin-left: 250px;
+}
+
+.firstul:hover{
+    color: yellow;
+}
+
+.Destination{
+    border: none;
+    background-color: transparent;
+    color: white;
+}
+
+.topbutton{
+    margin-left: 450px;
+}
+
+.Loginbutton{
+    border: none;
+    background-color: transparent;
+    color: white;
+}
+
+.Registerbutton{
+    border: none;
+    background-color: yellow;
+    color: green;
+}
+
+.toplive{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.topfirstp{
+    margin-top: 100px;
+    margin-left: -430px;
+    width: 700px;
+}
+.numberlist{
+    list-style: none;
+    
+}
+
+.topnumber{
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+.topnumberbutton{
+    margin-left: 50px;
+    width: 150px;
+}
+
+.Location{
+    height: 100px;
+    width: 400px;
+}
+
+.NearByPlace{
+    height: 100px;
+    width: 400px;
+}
+
+.Activities{
+    height: 100px;
+    width: 400px;
+}
+
+.threetext{
+    margin-top: -50px;
+    margin-left: 100px;
+}
+
+.topbuttontwo{
+    margin-top: 120px;
+    margin-left: 100px;
+    width: 1200px;
+    color: white;
+}
+
+.templeblockbig{
+    height: 700px;
+    width: 100%;
+    background-color: black;
+}
+.templeheading{
+    color: white;
+    margin-left: 100px;
+}
+.templelist{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+    display: inline-flex;
+    list-style: none;
+    color: white;
+    font-size: x-large;
+}
+
+.Adventure{
+    background-color: yellow;
+    padding: 5px;
+    border-radius: 10px;
+    color: green;
+}
+
+.templeimage{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.templeblock{
+    background-color:rgba(209, 204, 204, 0.192);
+    border-radius: 10px;
+    height: 400px;
+    width: 280px;
+    margin-left: 100px;
+    color: white;
+    margin-left: 200px;
+}
+
+.templebutton{
+    background-color: transparent;
+    border-color: yellow;
+    border-radius: 10px;
+    color: white;
+}
+.Discoveryblock{
+    margin-top: -350px;
+    margin-left: 250px;
+    height: 200px;
+    width: 400px;
+    color: white;
+}
+
+.Discoveryblockp{
+    margin-left: 60px;
+    margin-top: -25px;
+}
+
+.pausedviedoimage{
+    margin-left: 800px;
+    margin-top: -100px;
+}
+
+.worldimageblock{
+    background-color: white;
+    margin-top: 50px;
+}
+
+.worldimageblockfirst{
+    margin-left: 500px;
+    width: 700px;
+    color:green;
+}
+
+.worldimage{
+    margin-left: 250px;
+}
+
+.worldimageblocksecond{
+    width: 500px;
+    margin-left: 100px;
+    color: green;
+}
+
+.person{
+    margin-left: 950px;
+    margin-top: -200px;
+}
+
+.worldimageblockthird{
+height: 250px;
+width: 300px;
+margin-left: 200px;
+margin-top: -220px;
+margin-bottom: 20px;
+border-color: black;
+border-radius: 10px;
+}
+
+.flower{
+    margin-left: 300px;
+    margin-top: -250px;
+}
+
+.star{
+    margin-top: -50px;
+}
+
+.nameperson{
+    color: green;
+    margin-top: -20px;
+}
+
+.blackblock{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    color: white;
+}
+.greenblock{
+    background-color: green;
+    height: 250px;
+    width: 900px;
+    border-radius: 20px;
+    margin-left: 280px;
+}
+
+.greenblockheadingone{
+    margin-left: 350px;
+}
+
+.greenblockheadingtwo{
+    margin-left: 400px;
+}
+
+.greenblockheadingp{
+    margin-left: 200px;
+}
+
+.greenblockbutton{
+    background-color: yellow;
+    color: green;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
+.bottomlist{
+    list-style: none;
+    font-weight: 20px;
+}
+
+.bottomblock{
+    margin-top: -200px;
+    color: white;
+    margin-left: 200px;
+    position: absolute;
+}
+
+.footerblock{
+    background-color: green;
+    color: white;
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+}
+
+.footerblockp{
+    margin-left: 350px;
+    margin-top: 10px;
+}
+
+.footerimage{
+    opacity: 0.7;
+}
+.footerimageblock{
+    position: relative;
+}
